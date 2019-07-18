@@ -1,16 +1,16 @@
-# lita-doubler
+# dp-test-lita-doubler
 
-[![Build Status](https://travis-ci.org/luislee818/lita-doubler.png?branch=master)](https://travis-ci.org/luislee818/lita-doubler)
-[![Coverage Status](https://coveralls.io/repos/luislee818/lita-doubler/badge.png)](https://coveralls.io/r/luislee818/lita-doubler)
+[![Build Status](https://travis-ci.org/dapengli2005/dp-test-lita-doubler.png?branch=master)](https://travis-ci.org/dapengli2005/dp-test-lita-doubler)
+[![Coverage Status](https://coveralls.io/repos/dapengli2005/dp-test-lita-doubler/badge.png)](https://coveralls.io/r/dapengli2005/dp-test-lita-doubler)
 
 TODO: Add a description of the plugin.
 
 ## Installation
 
-Add lita-doubler to your Lita instance's Gemfile:
+Add dp-test-lita-doubler to your Lita instance's Gemfile:
 
 ``` ruby
-gem "lita-doubler"
+gem "dp-test-lita-doubler"
 ```
 
 ## Configuration
